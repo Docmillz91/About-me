@@ -9,7 +9,7 @@ Hi, my name is Max and currently I'm attending San Diego College of Continuing E
 -  I’m interested in learning how code.
 -  I’m looking foward to collaborating with classmates this years.
 -  The best way to get in contact with me is through [Github](https://github.com/Docmillz91) and [Linkedin](www.linkedin.com/in/docmillz)
--  Fun fact: I have two dogs, one is a huskey (Apollo is 11 years old) and a yorkie (Lexi is 2 years old)
+-  A fun fact: I have two dogs, one of them is a huskey (Apollo, 11 years old) and the other one is a yorkie (Lexi, 2 years old)
 
   ## Certifications
   ### San Diego College of Continuing Education 
