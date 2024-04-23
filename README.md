@@ -1,10 +1,7 @@
 # Introduction
 
- I am a positive and motivated employee that works well with others. My background is mainly in Management and supervising, I understand how to value the company and employees which results into a positive experience for the guest or clients.
 
-Currently I am attending San Diego College of Continuing Education to earn a skill in trade Informational Technology. I am studying HTML & CSS and Front/Back End Web Development (FEWD) this summer.  I am trying to advanced my lanuage skills because I want to try a new field of work in the future.
-
-On my spare time I like to learn about 3D software like blender, it’s one of my many hobbies. I use my spare time to sharpen my background knowledge and skills with technological software/hardware.
+Hi, my name is Max and currently I am attending San Diego College of Continuing Education to earn a skill in trade Informational Technology. I am studying HTML & CSS this summer.  I am trying to advanced my skills because I want to try a new field of work in my future.
 
 ## Online profile:
 
@@ -15,7 +12,7 @@ On my spare time I like to learn about 3D software like blender, it’s one of m
 -  Fun fact: I have two dogs, one is a huskey (Apollo is 11 years old) and a yorkie (Lexi is 2 years old)
 
   ## Certifications
-  2023-2024
+  #### 2023-2024
 
 ✨Digital Design (01-28-2023)
 
