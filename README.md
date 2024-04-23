@@ -1,7 +1,7 @@
 # Introduction
 
 
-Hi, my name is Max and currently attending San Diego College of Continuing Education to earn a skill in trade Informational Technology. I am studying HTML & CSS this summer.  I am trying to advanced my skills because I want to try a new field of work in my future.
+Hi, my name is Max and currently I'm attending San Diego College of Continuing Education to earn a skill in trade Informational Technology. I am studying HTML & CSS this summer.  I am trying to advanced my skills because I want to try a new field of work in my future.
 
 ## Online profile:
 
