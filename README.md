@@ -33,7 +33,7 @@ Hi, my name is Max and currently I'm attending San Diego College of Continuing E
 
 ✨Front-End Web Development II (01-27-2024)
 
-
+![Uploading image.png…](Adobe-Logos.png)
   
 
 <!---
