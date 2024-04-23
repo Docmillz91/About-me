@@ -1,6 +1,10 @@
 # Introduction
 
-Hi, My name is Max and currently I'm studying html and css. I have less than 2 years of experince with code, but I am investing my spare time to improve.
+ I am a positive and motivated employee that works well with others. My background is mainly in Management and supervising, I understand how to value the company and employees which results into a positive experience for the guest or clients.
+
+Currently I am attending San Diego College of Continuing Education to earn a skill in trade Informational Technology. I am studying HTML & CSS and Front/Back End Web Development (FEWD) this summer.  I am trying to advanced my lanuage skills because I want to try a new field of work in the future.
+
+On my spare time I like to learn about 3D software like blender, it’s one of my many hobbies. I use my spare time to sharpen my background knowledge and skills with technological software/hardware.
 
 ## Online profile:
 
