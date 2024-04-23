@@ -12,6 +12,7 @@ Hi, my name is Max and currently I am attending San Diego College of Continuing 
 -  Fun fact: I have two dogs, one is a huskey (Apollo is 11 years old) and a yorkie (Lexi is 2 years old)
 
   ## Certifications
+  ### San Diego College of Continuing Education 
   #### 2023-2024
 
 ✨Digital Design (01-28-2023)
