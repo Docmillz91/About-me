@@ -1,14 +1,14 @@
 # Introduction
 
 
-Hi, my name is Max and currently I'm attending San Diego College of Continuing Education to earn a skill trade in Informational Technology. I am studying HTML & CSS this summer.  I am trying to advanced my skills because I want to try a new field of work in my future.
+Hi, my name is Max and currently I'm attending San Diego College of Continuing Education where i am trying to earn a skill trade in informational technology. I am trying to advanced my skills so I can be an asset to a technological company in the near future.
 
 ## Online profile:
 
 -  Hi, I’m @Docmillz91
 -  I’m interested in learning how to code.
 -  I’m looking foward to collaborating with colleagues this years.
--  The best way to get in contact with me is through [Github](https://github.com/Docmillz91) and [Linkedin](www.linkedin.com/in/docmillz)
+-  The best way to get in contact is through [Github](https://github.com/Docmillz91) or [Linkedin](www.linkedin.com/in/docmillz)
 
   ## Certifications
   ### San Diego College of Continuing Education 
