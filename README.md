@@ -1,7 +1,7 @@
 # Introduction
 
 
-Hi, my name is Max and currently I'm attending San Diego College of Continuing Education, I'm trying to earn a skill trade in informational technology.
+Hi, my name is Max and currently I'm attending San Diego College of Continuing Education, I am studying front-end web development.
 
 ## Online profile:
 
